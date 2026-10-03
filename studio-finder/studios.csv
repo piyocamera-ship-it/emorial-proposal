@@ -1,0 +1,4 @@
+name,area,station,price_per_hour,min_hours,capacity,booking_url,ical_url,memo
+サンプルスタジオA（架空）,渋谷区,恵比寿,5500,2,8,https://example.com/studio-a,file://samples/studio_a.ics,白ホリ・ストロボ無料（架空データ）
+サンプルスタジオB（架空）,目黒区,中目黒,4000,1,4,https://example.com/studio-b,,自然光・フード撮影向き（架空データ）
+サンプルスタジオC（架空）,渋谷区,代々木,7000,3,12,https://example.com/studio-c,file://samples/studio_c.ics,天井高3m（架空データ）
