@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "japan-facilities": {
+      "type": "http",
+      "url": "https://api.openpoiapi.com/mcp"
+    }
+  }
+}
